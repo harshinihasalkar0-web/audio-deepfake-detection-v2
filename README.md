@@ -59,7 +59,7 @@ This project focuses on detecting deepfake audio using Mel Spectrograms and deep
 ## Evaluation
 - Confusion Matrix
 - Classification Report (precision, recall, F1-score)
-- Accuracy and loss curves
+
 
 ---
 
@@ -68,3 +68,12 @@ This project focuses on detecting deepfake audio using Mel Spectrograms and deep
 - TensorFlow / Keras
 - Librosa
 - Scikit-learn
+
+## Author
+Harshini Hasalkar  
+Second Year, Computer Engineering  
+Dr. D. Y. Patil Institute of Technology
+- Accuracy and loss curves
+
+## Key Learning
+Handling class imbalance and choosing the right evaluation metric (recall over accuracy) was critical in this project.
