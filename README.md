@@ -142,6 +142,12 @@ Handling class imbalance and selecting appropriate evaluation metrics (particula
 * Scikit-learn
 
 ---
+## Demo Video
+
+A demonstration of the audio deepfake detection system is available below:
+
+[▶ Watch Demo Video](https://www.youtube.com/watch?v=dMFcv-sG89s)
+
 
 ## Author
 
